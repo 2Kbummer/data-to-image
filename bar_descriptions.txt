@@ -1,0 +1,12 @@
+
+This program turns 3 text files of fraction data into image bars.
+  Left to Right indicates a time line, left-most data having the oldest data.
+  RED is a high number, BLUE is a middle number, and GREEN is a low number.
+     
+1st DATA BAR: Reference color image showing an image going from highest Red to highest Green color.
+
+2nd DATA BAR: Global Temperature 1880 - 2018
+
+3rd DATA BAR: Global Illiteracy 1986 - 2016
+
+4th DATA BAR: Global Child Mortality 1960 - 2017
